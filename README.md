@@ -6,4 +6,5 @@ Plays a sound whenever someone types in chat who's near you.
 add this to customScripts.lua
 
 ```LUA
-require("custom/ChatSound")```
+require("custom/ChatSound")
+```
