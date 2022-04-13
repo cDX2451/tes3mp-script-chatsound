@@ -9,10 +9,3 @@ end
 customEventHooks.registerHandler("OnPlayerSendMessage", ChatSound.OnPlayerSendMessage)
 
 return ChatSound
-
-
-
-
-
-
-
